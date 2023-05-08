@@ -20,7 +20,7 @@
 <p><img align="center" width="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=balasurya984&theme=github_dark" alt="balas..." />
   
   
-  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="center" style="width: 60%; height:100px" /></div>  
 
 <br/>  
 <details><br>
